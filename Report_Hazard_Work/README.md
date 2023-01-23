@@ -13,5 +13,5 @@
 
 ###### Реализация
 
-- [Текст Запроса СКД ](https://github.com/alex-dev-2020/HRM_3_1_23/commit/422da0bb1fcf05710787d596f679d23321a3bd98)
+- [Текст Запроса СКД ](https://github.com/alex-dev-2020/HRM_3_1_23/commit/d79b55fc3e85a4234262ab4730d855fd6c5c8325)
 
